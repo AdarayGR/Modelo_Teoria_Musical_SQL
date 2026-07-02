@@ -19,3 +19,5 @@ El diseño sigue las mejores prácticas de normalización (3NF) para evitar la r
 2. **`acordes`**: Catálogo que define el tipo y nombre de las estructuras armónicas.
 3. **`detalles_acorde`**: Tabla puente para modelar la relación de muchos a muchos entre notas y acordes, identificando la función del intervalo (fundamental, tercera, quinta, etc.).
 
+![Diagrama Entidad Relacion](assets/DER-1.png)
+> **Nota:** Diagrama diseñado utilizando [QuickDBD](https://www.quickdatabasediagrams.com/).
